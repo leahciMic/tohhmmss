@@ -1,6 +1,6 @@
 {
   "name": "tohhmmss",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Convert seconds to HH:MM:SS, that's it.",
   "repository": {
     "type": "git",
